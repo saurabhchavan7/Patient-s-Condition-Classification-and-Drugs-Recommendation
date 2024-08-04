@@ -1,5 +1,11 @@
 # Patient Condition Classification from Drug Reviews
 
+## Architecture Diagram
+
+Below is the architecture diagram of the NLP-based drug review classification system:
+
+![Architecture Diagram](nlp_drug_review.png)
+
 ## Project Overview
 In this project, we developed a natural language processing (NLP) system to classify patient conditions based on drug reviews. The goal is to analyze patient reviews to predict their conditions and recommend suitable drugs. The primary conditions targeted are Birth Control, Depression, High Blood Pressure, and Diabetes.
 
