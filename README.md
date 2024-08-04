@@ -12,6 +12,11 @@ The Streamlit web application for the NLP-based drug review classification syste
 
 [Patients Condition Classification and Drugs Recommendation](https://patients-condition-classification-and-drugs-recommendation.streamlit.app/)
 
+## Website Screenshot
+
+Below is a screenshot of the project’s website:
+
+![Website Screenshot](website_ss.png)
 
 ## Project Overview
 In this project, we developed a natural language processing (NLP) system to classify patient conditions based on drug reviews. The goal is to analyze patient reviews to predict their conditions and recommend suitable drugs. The primary conditions targeted are Birth Control, Depression, High Blood Pressure, and Diabetes.
