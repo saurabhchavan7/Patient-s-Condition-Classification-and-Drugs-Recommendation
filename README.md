@@ -4,7 +4,7 @@
 
 Below is the architecture diagram of the NLP-based drug review classification system:
 
-![Architecture Diagram](nlp_drug_review.png)'
+![Architecture Diagram](nlp_drug_review_.png)'
 
 ## Streamlit Application
 
